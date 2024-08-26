@@ -60,7 +60,6 @@ export GITPMOJI_PREFIX_RX="$prefix"
 export GITPMOJI_API_BASE_URL="$base_url"
 export GITPMOJI_API_MODEL="$model"
 EOF
-EOF
 fi
 
 
